@@ -1,9 +1,5 @@
-### Welcome to the profile of a future developer </>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-teixeira-farias-52592230b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-dev01)
-
- <hr>
-# Olá eu sou **Felipe Farias**
+#Olá eu sou **Felipe Farias**
 
 ### Desenvolvedor Back-end
 
