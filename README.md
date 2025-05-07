@@ -5,7 +5,7 @@
 
 📍 Hortolândia, Brasil  
 📚 Técnico em Informática para Internet  
-🌱 Aprimorando minhas habilidades em **PHP, Laravel, C#, .NET** e Desenvolvimento de aplicações web  
+🌱 Aprimorando minhas habilidades em Desenvolvimento de aplicações web  
 👨‍💻 Todos os meus projetos estão disponíveis no GitHub: [Felipe-Dev](https://github.com/Felipe-dev01?tab=repositories)
 
 ---
